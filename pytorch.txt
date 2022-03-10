@@ -1,0 +1,13 @@
+Pytorch
+
+torchaudio
+
+torchtext
+
+torchvision
+
+TorchElastic
+
+TorchServe
+
+Pytorch On Xla devices
